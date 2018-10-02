@@ -1,2 +1,2 @@
 # MUNO-release
-MUNO releases
+MUNO official releases
